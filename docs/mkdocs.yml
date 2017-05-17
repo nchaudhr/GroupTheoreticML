@@ -2,7 +2,7 @@
 #   http://www.mkdocs.org/user-guide/configuration/
 
 site_name:        GroupTheoreticML.jl
-#repo_url:         https://github.com/nchaudhr/GroupTheoreticML
+#repo_url:         https://github.com/nchaudhr/GroupTheoreticML.jl
 #site_description: Description...
 #site_author:      USER_NAME
 
